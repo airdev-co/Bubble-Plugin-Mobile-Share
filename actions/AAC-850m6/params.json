@@ -1,0 +1,22 @@
+{
+    "category": "plugins",
+    "display": "Trigger share",
+    "fields": {
+        "AAD": {
+            "caption": "URL",
+            "doc": "Destination URL. Be sure to include HTTP or HTTPS or this will not work.",
+            "editor": "DynamicValue",
+            "name": "url",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "Text",
+            "editor": "DynamicValue",
+            "name": "text",
+            "rank": 1,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}

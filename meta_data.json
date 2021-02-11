@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "social network",
+        "1": "blog",
+        "2": "media"
+    },
+    "description": "Trigger an action to share pages/URLs within mobile browsers.\n\nThis should only be used on mobile browsers. Use the isMobile plugin (https://bubble.io/plugin/ismobile-1529450845102x753311524391485400) to determine if the user is on a mobile browser.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1587142307881x229324113500534180/icons8-share-256.png",
+    "license": "open_source",
+    "name": "Mobile Share"
+}
